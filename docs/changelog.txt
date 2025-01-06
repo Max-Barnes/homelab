@@ -1,3 +1,5 @@
 12-23-24 Up and running! Setting up ubuntu server iso now.
 
 12-23-24 Ubuntu Server set up, Raspberry PI vm set up
+
+12-29-24 Backup job set up
