@@ -28,7 +28,7 @@ Backups automated through proxmox. Will connect them to NAS when I can afford th
 
 Doing scripts for fun and from roadmap.sh. This will help me learn more DevOps and integrate it into my homelab
 
-[Server Stats Script](./scripts/devops/stats.sh)
+[Scripts Folder](./scripts/)
 
 
 https://roadmap.sh/projects/server-stats
