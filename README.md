@@ -23,3 +23,12 @@ Cisco 2950 Switch
 # Backups
 
 Backups automated through proxmox. Will connect them to NAS when I can afford the hardware.
+
+# Scripts
+
+Doing scripts for fun and from roadmap.sh. This will help me learn more DevOps and integrate it into my homelab
+
+[Server Stats Script](./scripts/devops/stats.sh)
+
+
+https://roadmap.sh/projects/server-stats
