@@ -12,7 +12,14 @@ This is the beginning of my home lab project (12-23-24).
 | RAM   | 16GB |
 | SSD  | 500GB |
 | Hypervisor | Proxmox |
+
 # Networking
-Eventually implement Networking (New Router, DHCP Server, Firewalls)
+![first-network-diagram](./images/NetworkDiagram.png)
+
+Cisco 2600 Series Router
+
+Cisco 2950 Switch
+
 # Backups
-![screenshot of backups](./images/backup.png)
+
+Backups automated through proxmox. Will connect them to NAS when I can afford the hardware.
