@@ -1,11 +1,11 @@
 #!/usr/bin/bash
 
 #use me as a cron job or run me as sudo every so often
-apt update
-apt upgrade
+apt update -y
+apt upgrade -y
 
 # removes unneeded dependencies and removes useless packages
-apt autoremove
-apt autoclean
+apt autoremove -y
+apt autoclean -y
 
 echo "All done"
